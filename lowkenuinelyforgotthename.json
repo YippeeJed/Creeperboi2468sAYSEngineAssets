@@ -1,0 +1,24 @@
+{
+    "song": {
+        "title": "title 123",
+        "artist": "artist 456",
+        "bpm": 111,
+        "offset": 0,
+        "scrollSpeed": 1.0,
+        "audio": "lowkenuinelyforgotthename.mp3"
+    },
+
+    "metadata": {
+        "version": "0.1",
+        "difficulty": "Normal",
+        "charter": "Unknown"
+    },
+
+    "notes": [
+
+    ],
+
+    "events": [
+
+    ]
+}
